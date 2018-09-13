@@ -1,4 +1,5 @@
-namespace aa.movielens.db.hdb;
+namespace movielens.db.hdb;
+
 
 context data {
     entity links {
